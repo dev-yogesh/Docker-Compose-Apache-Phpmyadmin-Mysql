@@ -1,0 +1,4 @@
+
+create a database name ajax_demo & import user.sql there
+then in the getuser.php ln 24 update your configuration to the db
+
